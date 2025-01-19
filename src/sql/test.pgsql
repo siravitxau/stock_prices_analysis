@@ -1,0 +1,3 @@
+SELECT *
+FROM stock_prices
+WHERE date BETWEEN '2024-01-01' AND '2024-12-31'
